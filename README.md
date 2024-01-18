@@ -1,9 +1,10 @@
 <h2 align="center">Hello there !</h2>
 
+<!--
 <p align="center">
-Try hard
-</p>
 
+</p>
+-->
 <br/>
 <p align="center">
   <img align="center" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=vadim-soude&theme=dark" alt="stats"/>
