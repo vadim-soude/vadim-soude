@@ -1,7 +1,7 @@
 <h2 align="center">Welcome to my profile !</h2>
 
 <p align="center">
-  I'm a French student in computer science in my third year of college. 🎓
+  I'm a French computer science student in my third year of university. 🎓
 </p>
 <p align="center">
     You can learn more about me here : <a href="https://github.com/vadim-soude/Portfolio">My portfolio !</a> (It's in french 🥖)
