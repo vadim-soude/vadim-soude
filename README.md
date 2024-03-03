@@ -4,7 +4,7 @@
   I'm a French computer science student in my third year of university. 🎓
 </p>
 <p align="center">
-    You can learn more about me here : <a href="https://github.com/vadim-soude/Portfolio">My portfolio !</a> (It's in french 🥖)
+    You can learn more about me here : <a href="https://vadim-soude.github.io/Portfolio/">My portfolio !</a> (It's in french 🥖)
 </p>
 <br>
 <p align="center">
