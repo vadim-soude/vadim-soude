@@ -1,11 +1,11 @@
 <h2 align="center">Welcome to my profile !</h2>
 
 <p align="center">
-  I'm a French computer science student in master degree. 🎓
+  I'm a French Java, GLSL and Kotlin dev for Rivrs.
 </p>
-<p align="center">
-    Small WIP portfolio in SveltKit : "https://vadim-soude.github.io/Portfolio/" (It's in french 🥖)
-</p>
+<!-- <p align="center">
+  Small WIP portfolio in SveltKit : "https://vadim-soude.github.io/Portfolio/" (It's in french 🥖)
+</p>-->
 <br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadim-soude&langs_count=6&theme=dark" alt="stats"/>
