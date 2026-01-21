@@ -7,7 +7,7 @@
 
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadim-soude&langs_count=6&theme=dark" alt="stats"/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=vadim-soude&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent" alt="stats"/>
 </p>
 <br>
 <p align="center" style="font-weight:bold">
